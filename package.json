@@ -1,0 +1,19 @@
+{
+  "name": "jest-tuto",
+  "version": "1.0.0",
+  "description": "Jest tutorial",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Carlos Del Real",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset": "^1.1.1",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^25.1.0",
+    "webpack": "^4.41.5"
+  }
+}
